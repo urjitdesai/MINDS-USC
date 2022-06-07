@@ -2,7 +2,7 @@
 MINDS take home assignment
 
 # Requirements
-You will need to download following python packages: pandas, numpy, plotly, beautifulsoup, nltk, requests
+You will need to download following python packages: pandas, numpy, plotly, beautifulsoup, nltk, requests, json
 
 # How to Run
 Just download the MINDS.ipnb file and run it locally. Install the above packages if not already installed. 
